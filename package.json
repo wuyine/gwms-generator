@@ -9,8 +9,16 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wuyine/gwms-generator.git"
+    },
     "author": "wuyine",
     "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wuyine/gwms-generator/issues"
+    },
+    "homepage": "https://github.com/wuyine/gwms-generator#readme",
     "dependencies": {
         "chalk": "^2.4.2",
         "commander": "^2.20.0",
